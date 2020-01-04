@@ -1,7 +1,4 @@
 *.pyc
-*.txt
 *.pth
-predict/Baidu/
 .idea
 *.zip
-/models/gauze_result/*.pth
