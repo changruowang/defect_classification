@@ -16,3 +16,10 @@
 <img src="figs/train_loss.png" />
 
 
+
+pytorch >=1.1
+
+pyqt5  
+
+训练好的models下载链接：https://pan.baidu.com/s/1mwmm_r5thZiSYun2dk9QqA 
+提取码：hqzl
