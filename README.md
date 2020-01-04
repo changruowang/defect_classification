@@ -1,2 +1,7 @@
 # defect_classification_code
-# defect_classification-
+程序GUI界面如下
+
+![1578136566090](C:\Users\RUOWANG\AppData\Roaming\Typora\typora-user-images\1578136566090.png)                                                  
+
+
+
